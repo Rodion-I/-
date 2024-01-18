@@ -35,3 +35,15 @@ text {
     padding: 5px;
     border-radius: 6px;
 }
+
+.container2 {
+    width: 1024px;
+    margin:100px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.imgintro {
+    margin-right: 300px;
+}
