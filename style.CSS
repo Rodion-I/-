@@ -47,3 +47,10 @@ text {
 .imgintro {
     margin-right: 300px;
 }
+
+.ttt {
+    width: 1024px;
+    margin:100px auto;
+    display: flex;
+    justify-content: space-between;
+}
